@@ -6,6 +6,7 @@
 Project Features:
 -  Splash Screen
 -  Light & Dark Themes Functionality
+-  Fetching Weather Data From Api
 -  Fetch City/State/Country Wise Weather Detail
 -  Detail Screen for Each City/State Wise Weather Detail
 -  Network Connectivity Using connectivity_plus
